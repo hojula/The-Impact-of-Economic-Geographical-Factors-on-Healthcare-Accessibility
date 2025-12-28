@@ -1,0 +1,829 @@
+﻿Nazev,Adresa_plna,Popis,Lon,Lat,Group_ID,Marker_Color,Marker_Symbol,URL,Feature_ID,Zrizovatel,Pocet_luzek,Pocet_lekaru,Pocet_sester,Pocet_hospitalizaci,Pocet_ambulantnich_vysetreni
+Bohumínská městská nemocnice,"Bohumínská městská nemocnice, Slezská, 735 81 Bohumín, Czechia","Zřizovatel: obec 
+Počet lůžek: 109 
+Počet lékařů: 35 
+Počet sester: 110 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",18.336876,49.917809,2744332045,#005e38,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=149748&typ=UPLNY,1619207901,obec,109,35,110,/,/
+Domažlická nemocnice,"Domažlická nemocnice, Kozinova 292, 344 01 Domažlice, Czechia","Zřizovatel: kraj 
+Počet lůžek: 200 
+Počet lékařů: 41 
+Počet sester: 149 
+Počet hospitalizací: 7014 
+Počet ambulantních vyšetření: 46299",12.90792,49.438053,3591367076,#b63681,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=157680&typ=UPLNY,3502829205,kraj,200,41,149,7014,46299
+Duchcov - Městská nemocnice,"Duchcov - Městská nemocnice, Osecká, 419 01 Duchcov, Czechia","Zřizovatel: soukromý vlastník - Duchcovská zdravotní s.r.o.
+Počet lůžek: / 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",13.741893,50.609628,1032119212,#f1ae29,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=690196&typ=UPLNY,1827812979,soukromý vlastník - Duchcovská zdravotní s.r.o.,/,/,/,/,/
+EUC Klinika Zlín,"EUC Klinika Zlín, třída Tomáše Bati 5135, 760 01 Zlín, Czechia","Zřizovatel: soukromý vlastník - Jan Blaško
+Počet lůžek: / 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",17.656966,49.222681,2799177597,#fb6033,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=63199&typ=UPLNY,3325611371,soukromý vlastník - Jan Blaško,/,/,/,/,/
+FN Ostrava,"FN Ostrava, K Myslivně, 708 33 Ostrava, Czechia","Zřizovatel: Ministerstvo zdravotnictví Počet lůžek: 1127 
+Počet lékařů: 540 
+Počet sester: 1335 
+Počet hospitalizací: 44966 
+Počet ambulantních vyšetření: 611853",18.157785,49.828179,2744332045,#005e38,hotel,,2213739327,Ministerstvo zdravotnictví Počet lůžek: 1127,1127,540,1335,44966,611853
+Fakultní nemocnice,"Fakultní nemocnice, Sokolská, 500 02 Hradec Králové, Czechia","Zřizovatel: Ministerstvo zdravotnictví Počet lůžek: 1375 
+Počet lékařů: 811 
+Počet sester: 2252 
+Počet hospitalizací: 40676 
+Počet ambulantních vyšetření: 722100",15.825911,50.202092,4105445865,#cc1b15,hotel,,3605437893,Ministerstvo zdravotnictví Počet lůžek: 1375,1375,811,2252,40676,722100
+Fakultní nemocnice Brno - Bohunice,"Fakultní nemocnice Brno - Bohunice, Kamenice, 625 00 Brno, Czechia","Zřizovatel: Ministerstvo zdravotnictví Počet lůžek: 1908 
+Počet lékařů: 955 
+Počet sester: 2686 
+Počet hospitalizací: 67097 
+Počet ambulantních vyšetření: 1086799",16.57375,49.175416,2451465079,#e32c31,hotel,,1361253869,Ministerstvo zdravotnictví Počet lůžek: 1908,1908,955,2686,67097,1086799
+Fakultní nemocnice Královské Vinohrady,"Fakultní nemocnice Královské Vinohrady, Ruská, 100 42 Prague, Czechia","Zřizovatel: Ministerstvo zdravotnictví Počet lůžek: 1038 
+Počet lékařů: 460 
+Počet sester: 1234 
+Počet hospitalizací: 52276 
+Počet ambulantních vyšetření: /",14.478949,50.074603,1020388458,#444444,hotel,,3293451617,Ministerstvo zdravotnictví Počet lůžek: 1038,1038,460,1234,52276,/
+Fakultní nemocnice Olomouc,"Fakultní nemocnice Olomouc, Za nemocnicí, 783 01 Olomouc, Czechia","Zřizovatel: ministerstvo zdravotnictví Počet lůžek: 1174 
+Počet lékařů: 747 
+Počet sester: 1467 
+Počet hospitalizací: 52870 
+Počet ambulantních vyšetření: 872864",17.237322,49.583743,465184557,,hotel,,3193243011,ministerstvo zdravotnictví Počet lůžek: 1174,1174,747,1467,52870,872864
+Fakultní nemocnice Plzeň,"Fakultní nemocnice Plzeň, Edvarda Beneše, 301 00 Plzeň, Czechia","Zřizovatel: Ministerstvo zdravotnictví Počet lůžek: 1731 
+Počet lékařů: 899 
+Počet sester: 1598 
+Počet hospitalizací: 70331 
+Počet ambulantních vyšetření: 1 014 642",13.376136,49.733037,3591367076,#b63681,hotel,,1354933967,Ministerstvo zdravotnictví Počet lůžek: 1731,1731,899,1598,70331,1 014 642
+Fakultní nemocnice u sv. Anny v Brně,"Fakultní nemocnice u sv. Anny v Brně, Pekařská 664/53, 602 00 Brno, Czechia","Zřizovatel: Ministerstvo zdravotnictví Počet lůžek: 886 
+Počet lékařů: 404
+ Počet sester: 951 
+Počet hospitalizací: 26971 
+Počet ambulantních vyšetření: /",16.598755,49.191306,2451465079,#e32c31,hotel,,1636962834,Ministerstvo zdravotnictví Počet lůžek: 886,886,404,951,26971,/
+Hornická nemocnice s poliklinikou,"Hornická nemocnice s poliklinikou, 257, 418 01 Bílina, Czechia","Zřizovatel: obec 
+Počet lůžek: / 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",13.78446,50.54123,1032119212,#f1ae29,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=703087&typ=UPLNY,1644126947,obec,/,/,/,/,/
+Hustopeče - Městská nemocnice,"Hustopeče - Městská nemocnice, Hybešova, 693 01 Hustopeče, Czechia","Zřizovatel: kraj 
+Počet lůžek: 119 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",16.729111,48.945156,2451465079,#e32c31,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=903315&typ=UPLNY,2315793200,kraj,119,/,/,/,/
+Jesenická nemocnice,"Jesenická nemocnice, Tyršova, 790 01 Jeseník, Czechia","Zřizovatel: soukromý vlastník - AGEL a.s.
+Počet lůžek: / 
+Počet lékařů: /
+Počet sester: / 
+Počet hospitalizací: /
+Počet ambulantních vyšetření: /",17.198164,50.228239,465184557,,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=209942&typ=UPLNY,2044819038,soukromý vlastník - AGEL a.s.,/,/,/,/,/
+Karlovarská krajská nemocnice a.s.,"Karlovarská krajská nemocnice a.s., Bezručova, 360 09 Carlsbad, Czechia","Zřizovatel: kraj
+ Počet lůžek: 394 
+Počet lékařů: 172 
+Počet sester: 554 
+Počet hospitalizací: 26403 
+Počet ambulantních vyšetření: 138302",12.875501,50.233093,3640402910,#2a4ea1,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=710124&typ=UPLNY,4216836159,kraj,394,172,554,26403,138302
+Karvinská hornická nemocnice a.s.,"Karvinská hornická nemocnice a.s., Zakladatelská, 735 06 Karviná, Czechia","Zřizovatel: soukromý vlastník - Milan Canibal
+Počet lůžek: / 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",18.540292,49.869438,2744332045,#005e38,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=206474&typ=UPLNY,1386525607,soukromý vlastník - Milan Canibal,/,/,/,/,/
+Klatovská nemocnice,"Klatovská nemocnice, a.s., Plzeňská 929, 339 01 Klatovy, Czechia","Zřizovatel: kraj 
+Počet lůžek: 296 
+Počet lékařů: 109 
+Počet sester: 367 
+Počet hospitalizací: 13347 
+Počet ambulantních vyšetření: 150795",13.29243,49.403713,3591367076,#b63681,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=63641&typ=UPLNY,4111406426,kraj,296,109,367,13347,150795
+Klaudiánova nemocnice,"Klaudiánova nemocnice, Laurinova, 293 60 Mladá Boleslav, Czechia","Zřizovatel: Kraj 
+Počet lůžek: 618 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: 11708 
+Počet ambulantních vyšetření: 396 049",14.910743,50.418134,1987940417,#fb6033,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=685088&typ=UPLNY,2680047937,Kraj,618,/,/,11708,396 049
+Krajská nemocnice Liberec,"Krajská nemocnice Liberec, Husova, 461 17 Liberec, Czechia","Zřizovatel: kraj 
+Počet lůžek: 950 
+Počet lékařů: 337 
+Počet sester: 746 
+Počet hospitalizací: 37566 
+Počet ambulantních vyšetření: /",15.06464,50.77009,3650692710,#1b8893,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=708998&typ=UPLNY,2064669067,kraj,950,337,746,37566,/
+Krajská nemocnice Tomáše Bati,"Krajská nemocnice Tomáše Bati, Havlíčkovo nábřeží, 763 14 Zlín, Czechia","Zřizovatel: kraj 
+Počet lůžek: 928
+Počet lékařů: 306 
+Počet sester: 820 
+Počet hospitalizací: 37901 
+Počet ambulantních vyšetření: /",17.698492,49.22826,2799177597,#fb6033,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=202855&typ=UPLNY,3952580656,kraj,928,306,820,37901,/
+Lužická nemocnice a poliklinika,"Lužická nemocnice a poliklinika, U nemocnice 1298/6, 408 01 Rumburk, Czechia","Zřizovatel: obec
+Počet lůžek: / 
+Počet lékařů: 28 
+Počet sester: 83 
+Počet hospitalizací: 5850 
+Počet ambulantních vyšetření: 32927",14.54747,50.948712,1032119212,#f1ae29,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=40963&typ=UPLNY,2591124377,obec,/,28,83,5850,32927
+Masarykova městská nemocnice v Jilemnici,"Masarykova městská nemocnice v Jilemnici, Metyšova 465, 514 01 Jilemnice, Czechia","Zřizovatel: obec 
+Počet lůžek: 180 
+Počet lékařů: 73 
+Počet sester: 216 
+Počet hospitalizací: 8991
+Počet ambulantních vyšetření: /",15.498955,50.611301,3650692710,#1b8893,hotel,,1840426937,obec,180,73,216,8991,/
+Masarykova nemocnice,"Masarykova nemocnice, Na Kabátě, 403 40 Ústí nad Labem, Czechia","Zřizovatel: kraj
+Počet lůžek: 1106 
+Počet lékařů: 423 
+Počet sester: 1063 
+Počet hospitalizací: 40549 
+Počet ambulantních vyšetření: /",14.01912,50.680256,1032119212,#f1ae29,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=27885&typ=UPLNY,4143341545,kraj,1106,423,1063,40549,/
+Mulačova nemocnice,"Mulačova nemocnice, Dvořákova, 301 00 Plzeň, Czechia","Zřizovatel: soukromý vlastník - PRIVAMED a.s.
+Počet lůžek: 173 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",13.369789,49.727365,3591367076,#b63681,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=665290&typ=UPLNY,908120161,soukromý vlastník - PRIVAMED a.s.,173,/,/,/,/
+Městská nemocnice,"Městská nemocnice, Vrchlického 1504, 544 01 Dvůr Králové nad Labem, Czechia","Zřizovatel: kraj 
+Počet lůžek: / 
+Počet lékařů: 26 
+Počet sester: /
+ Počet hospitalizací: 5017 
+Počet ambulantních vyšetření: /",15.815767,50.448548,4105445865,#cc1b15,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=64113&typ=UPLNY,1462454235,kraj,/,26,/,5017,/
+Městská nemocnice Hořice,"Městská nemocnice Hořice, Riegrova 655, 508 01 Hořice, Czechia","Zřizovatel: obec 
+Počet lůžek: 120 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: 8520",15.639804,50.368478,4105445865,#cc1b15,hotel,,1347349604,obec,120,/,/,/,8520
+Městská nemocnice Městec Králové,"Městská nemocnice Městec Králové, Prezidenta Beneše, 289 03 Městec Králové, Czechia","Zřizovatel: Obec 
+Počet lůžek: 207 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",15.2878,50.2048,1987940417,#fb6033,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=686184&typ=UPLNY,3113165642,Obec,207,/,/,/,/
+Městská nemocnice Neratovice - Almeda,"Městská nemocnice Neratovice - Almeda, a.s., Alšova 462, 277 11 Nerátky, Czechia","Zřizovatel: Soukromý vlastník - VAMED MEDITERRA a.s.
+Počet lůžek: / 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: 4 655
+Počet ambulantních vyšetření: 58003",14.510434,50.258731,1987940417,#fb6033,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=679031&typ=UPLNY,1529781908,Soukromý vlastník - VAMED MEDITERRA a.s.,/,/,/,4 655,58003
+Městská nemocnice Ostrava,"Městská nemocnice Ostrava, Nemocniční 898/20a, 702 00 Ostrava, Czechia","Zřizovatel: obec 
+Počet lůžek: / 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: /
+Počet ambulantních vyšetření: /",18.274836,49.832996,2744332045,#005e38,hotel,,1684000660,obec,/,/,/,/,/
+Městská nemocnice Slavičín,"Městská nemocnice Slavičín, Komenského, 763 21 Slavičín, Czechia","Zřizovatel: obec 
+Počet lůžek: / 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",17.873698,49.090382,2799177597,#fb6033,hotel,,62675115,obec,/,/,/,/,/
+Městská nemocnice s poliklinikou Uh. Brod,"Městská nemocnice s poliklinikou Uh. Brod, s.r.o., Partyzánů 2174, 688 01 Uherský Brod, Czechia","Zřizovatel: obec 
+Počet lůžek: 90 
+Počet lékařů: 19 
+Počet sester: 44 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",17.652334,49.029107,2799177597,#fb6033,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=92798&typ=UPLNY,2501165256,obec,90,19,44,/,/
+Městská nemocnice v Odrách,"Městská nemocnice v Odrách, Nadační 375/1, 742 35 Odry, Czechia","Zřizovatel: obec 
+Počet lůžek: 75 
+Počet lékařů: 15 
+Počet sester: 50 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",17.827956,49.665517,2744332045,#005e38,hotel,,701563086,obec,75,15,50,/,/
+Městská nemocnice v Roztokách,"Městská nemocnice v Roztokách, Tiché údolí, 252 63 Roztoky, Czechia","Zřizovatel: Soukromý vlastník - Vladimír Matoušek (prostřednictvím RHG, spol. s.r.o.)
+Počet lůžek: /
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",14.395787,50.157337,1987940417,#fb6033,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=459440&typ=UPLNY,3006520314,"Soukromý vlastník - Vladimír Matoušek (prostřednictvím RHG, spol. s.r.o.)",/,/,/,/,/
+Městská nemocnice Čáslav,"Městská nemocnice Čáslav, Jeníkovská, 286 01 Čáslav, Czechia","Zřizovatel: Obec 
+Počet lůžek: / 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",15.40156,49.903995,1987940417,#fb6033,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=1042288&typ=UPLNY,1981787673,Obec,/,/,/,/,/
+Nemocnice Blansko,"Nemocnice Blansko, Sadová 1596/33, 678 01 Blansko, Czechia","Zřizovatel: Obec 
+Počet lůžek: 183 
+Počet lékařů: 74 
+Počet sester: 167 
+Počet hospitalizací: 5847
+Počet ambulantních vyšetření: /",16.653567,49.362199,2451465079,#e32c31,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=406659&typ=UPLNY,1713363418,Obec,183,74,167,5847,/
+Nemocnice Boskovice,"Nemocnice Boskovice, Otakara Kubína, 680 11 Boskovice, Czechia","Zřizovatel: kraj 
+Počet lůžek: 272 
+Počet lékařů: 77 
+Počet sester: 241 
+Počet hospitalizací: 10056 
+Počet ambulantních vyšetření: 316838",16.644048,49.490377,2451465079,#e32c31,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=304319&typ=UPLNY,2587553673,kraj,272,77,241,10056,316838
+Nemocnice Brandýs nad Labem,"Nemocnice Brandýs nad Labem, Brázdimská, 250 01 Brandýs n.L. - M. Boleslav, Czechia","Zřizovatel: Soukromý vlastník - Ivana Švikovská (prostřednictvím CLEAR'S GROUP a.s.)
+Počet lůžek: 144
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",14.651967,50.18772,1987940417,#fb6033,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=343186&typ=UPLNY,3833475827,Soukromý vlastník - Ivana Švikovská (prostřednictvím CLEAR'S GROUP a.s.),144,/,/,/,/
+Nemocnice Bílovec,"Nemocnice Bílovec, 17. listopadu 538/57, 743 01 Bílovec, Czechia","Zřizovatel: kraj 
+Počet lůžek: 130 
+Počet lékařů: 32 
+Počet sester: 62 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",18.017477,49.763008,2744332045,#005e38,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=149853&typ=UPLNY,1721760614,kraj,130,32,62,/,/
+Nemocnice Břeclav p.o.,"Nemocnice Břeclav p.o., U Nemocnice, 690 25 Břeclav, Czechia","Zřizovatel: kraj 
+Počet lůžek: 419 
+Počet lékařů: 141 
+Počet sester: 477 
+Počet hospitalizací: 19087 
+Počet ambulantních vyšetření: 181185",16.879477,48.752294,2451465079,#e32c31,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=609520&typ=UPLNY,2438256790,kraj,419,141,477,19087,181185
+Nemocnice Cheb,"Nemocnice Cheb, K Nemocnici, 350 02 Cheb, Czechia","Zřizovatel: kraj 
+Počet lůžek: 240 
+Počet lékařů: 63 
+Počet sester: 152 
+Počet hospitalizací: 10190 
+Počet ambulantních vyšetření: 66899",12.36609,50.069676,3640402910,#2a4ea1,hotel,,948668608,kraj,240,63,152,10190,66899
+Nemocnice Chomutov,"Nemocnice Chomutov, Edisonova, 430 01 Chomutov, Czechia","Zřizovatel: kraj 
+Počet lůžek: 377 
+Počet lékařů: 125 
+Počet sester: 376 
+Počet hospitalizací: 14402 
+Počet ambulantních vyšetření: 186587",13.40983,50.453467,1032119212,#f1ae29,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=27885&typ=UPLNY,2563555583,kraj,377,125,376,14402,186587
+Nemocnice Dačice,"Nemocnice Dačice, Antonínská, 380 01 Dačice, Czechia","Zřizovatel: kraj 
+Počet lůžek: / 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",15.431072,49.076045,1652591349,#ffcc00,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=26406&typ=UPLNY,3081247027,kraj,/,/,/,/,/
+Nemocnice Děčín,"Nemocnice Děčín, U Nemocnice, 405 02 Děčín, Czechia","Zřizovatel: kraj 
+Počet lůžek: 308 
+Počet lékařů: 98 
+Počet sester: 255 
+Počet hospitalizací: 13662 
+Počet ambulantních vyšetření: 176252",14.226296,50.781692,1032119212,#f1ae29,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=27885&typ=UPLNY,1886810693,kraj,308,98,255,13662,176252
+Nemocnice Frýdek-Místek,"Nemocnice Frýdek-Místek, U Nemocnice, 738 01 Frýdek-Místek, Czechia","Zřizovatel: kraj 
+Počet lůžek: 477 
+Počet lékařů: 197 
+Počet sester: 749 
+Počet hospitalizací: 19864 
+Počet ambulantních vyšetření: 277898",18.35415,49.69097,2744332045,#005e38,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=243888&typ=UPLNY,2394346868,kraj,477,197,749,19864,277898
+Nemocnice Frýdlant,"Nemocnice Frýdlant, V Úvoze, 464 01 Frýdlant, Czechia","Zřizovatel: kraj 
+Počet lůžek: 126 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",15.088002,50.926539,3650692710,#1b8893,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=654295&typ=UPLNY,4130833931,kraj,126,/,/,/,/
+Nemocnice Hořovice,"Nemocnice Hořovice, K Nemocnici 1106/14, 268 01 Hořovice, Czechia","Zřizovatel: Soukromý vlastník 
+Počet lůžek: / 
+Počet lékařů: /
+Počet sester: / 
+Počet hospitalizací: 19029 
+Počet ambulantních vyšetření: 575035",13.9156,49.840634,1987940417,#fb6033,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=690404&typ=UPLNY,198755855,Soukromý vlastník,/,/,/,19029,575035
+Nemocnice Hranice,"Nemocnice Hranice, Zborovská, 753 01 Hranice, Czechia","Zřizovatel: soukromý vlastník - Nemocnice Hranice, a.s.
+Počet lůžek: 202 
+Počet lékařů: 67 
+Počet sester: 188 
+Počet hospitalizací: /
+Počet ambulantních vyšetření: /",17.747147,49.555495,465184557,,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=142037&typ=UPLNY,638794577,"soukromý vlastník - Nemocnice Hranice, a.s.",202,67,188,/,/
+Nemocnice Humpolec,"Nemocnice Humpolec, 5. května 319, 396 01 Humpolec, Czech Republic","Zřizovatel: Soukromý vlastník, MEDIRECO a.s.
+Počet lůžek: 104
+Počet lékařů: /
+Počet sester: /
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",15.362908,49.539665,3135952126,#3cc954,,,464954003,"Soukromý vlastník, MEDIRECO a.s.",104,/,/,/,/
+Nemocnice Jablonec nad Nisou,"Nemocnice Jablonec nad Nisou, Nemocniční 4446/15, 466 01 Jablonec nad Nisou, Czechia","Zřizovatel: obec 
+Počet lůžek: 377 
+Počet lékařů: 146 
+Počet sester: 312 
+Počet hospitalizací: 17199 
+Počet ambulantních vyšetření: 224968",15.15903,50.729815,3650692710,#1b8893,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=22647&typ=UPLNY,1171684630,obec,377,146,312,17199,224968
+Nemocnice Jihlava,"Nemocnice Jihlava, Vrchlického, 586 01 Jihlava, Czechia","Zřizovatel: Kraj 
+Počet lůžek: 649 
+Počet lékařů: 218 
+Počet sester: 641 
+Počet hospitalizací: 24843 
+Počet ambulantních vyšetření: 409037",15.569439,49.397408,3135952126,#3cc954,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=309337&typ=UPLNY,3847902179,Kraj,649,218,641,24843,409037
+Nemocnice Jindřichův Hradec,"Nemocnice Jindřichův Hradec, a.s., U Nemocnice, 377 01 Jindřichův Hradec, Czechia","Zřizovatel: kraj 
+Počet lůžek: 344 
+Počet lékařů: 69 
+Počet sester: 177 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",15.003489,49.138997,1652591349,#ffcc00,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=713839&typ=UPLNY,2382718790,kraj,344,69,177,/,/
+Nemocnice Kadaň,"Nemocnice Kadaň, Golovinova, 432 01 Kadaň, Czechia","Zřizovatel: obec 
+Počet lůžek: 230 
+Počet lékařů: 50 
+Počet sester: 137 
+Počet hospitalizací: 9960 
+Počet ambulantních vyšetření: 87661",13.270219,50.391444,1032119212,#f1ae29,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=709235&typ=UPLNY,4252040646,obec,230,50,137,9960,87661
+Nemocnice Kralupy nad Vltavou,"Nemocnice Kralupy nad Vltavou, Mostní 934, 278 01 Kralupy n. Vlt., Czechia","Zřizovatel: Soukromý vlastník - Vladimír Matoušek (prostřednictvím RHG, spol. s.r.o.)
+Počet lůžek: / 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",14.31274,50.242827,1987940417,#fb6033,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=459440&typ=UPLNY,1040670016,"Soukromý vlastník - Vladimír Matoušek (prostřednictvím RHG, spol. s.r.o.)",/,/,/,/,/
+Nemocnice Kroměříž,"Nemocnice Kroměříž, Havlíčkova, 767 01 Kroměříž, Czechia","Zřizovatel: kraj 
+Počet lůžek: 386 
+Počet lékařů: 111 
+Počet sester: 298 
+Počet hospitalizací: 18147 
+Počet ambulantních vyšetření: 419162",17.379686,49.291191,2799177597,#fb6033,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=202850&typ=UPLNY,440442841,kraj,386,111,298,18147,419162
+Nemocnice Kutná Hora,"Nemocnice Kutná Hora, Vojtěšská, 284 01 Kutná Hora, Czechia","Zřizovatel: Kraj 
+Počet lůžek: 89 
+Počet lékařů: 31 
+Počet sester: 111 
+Počet hospitalizací: 3605 
+Počet ambulantních vyšetření: 38917",15.253288,49.945963,1987940417,#fb6033,hotel,,2507712857,Kraj,89,31,111,3605,38917
+Nemocnice Kyjov,"Nemocnice Kyjov, Strážovská, 697 01 Kyjov, Czechia","Zřizovatel: kraj 
+Počet lůžek: / 
+Počet lékařů: 171 
+Počet sester: 404 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: 18646",17.112132,49.008804,2451465079,#e32c31,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=219904&typ=UPLNY,203244108,kraj,/,171,404,/,18646
+Nemocnice Letovice,"Nemocnice Letovice, Pod klášterem 55/17, 679 61 Letovice, Czechia","Zřizovatel: kraj 
+Počet lůžek: 120 
+Počet lékařů: 12 
+Počet sester: 39 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",16.579521,49.544674,2451465079,#e32c31,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=607310&typ=UPLNY,1355538575,kraj,120,12,39,/,/
+Nemocnice Litoměřice,"Nemocnice Litoměřice, Žitenická 2084, 412 01 Litoměřice, Czechia","Zřizovatel: obec 
+Počet lůžek: 560 
+Počet lékařů: 103 
+Počet sester: 335 
+Počet hospitalizací: 21054 
+Počet ambulantních vyšetření: 274343",14.144623,50.540734,1032119212,#f1ae29,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=977623&typ=UPLNY,4676738,obec,560,103,335,21054,274343
+Nemocnice Louny,"Nemocnice Louny, Pod Nemocnicí, 440 01 Louny, Czechia","Zřizovatel: soukromý vlastník - AGEL a.s.
+Počet lůžek: / 
+Počet lékařů: / 
+Počet sester: /
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",13.808433,50.350482,1032119212,#f1ae29,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=632513&typ=UPLNY,872064863,soukromý vlastník - AGEL a.s.,/,/,/,/,/
+Nemocnice Mariánské Lázně,"Nemocnice Mariánské Lázně, U Nemocnice, 353 01 Mariánské Lázně, Czechia","Zřizovatel: soukromý vlastník - West Bohemia Medical Holding, a.s
+Počet lůžek: 127 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",12.704374,49.960356,3640402910,#2a4ea1,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=102924&typ=UPLNY,3334803624,"soukromý vlastník - West Bohemia Medical Holding, a.s",127,/,/,/,/
+Nemocnice Milosrdných bratří,"Nemocnice Milosrdných bratří, Polní 553/3, 639 00 Brno, Czechia","Zřizovatel: obec 
+Počet lůžek: 466 
+Počet lékařů: 84 
+Počet sester: 252 
+Počet hospitalizací: 11764 
+Počet ambulantních vyšetření: 30195",16.596756,49.184823,2451465079,#e32c31,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=590908&typ=UPLNY,3365455122,obec,466,84,252,11764,30195
+Nemocnice Milosrdných bratří,"Nemocnice Milosrdných bratří, Zlínská, 763 12 Vizovice, Czech Republic","Zřizovatel: soukromý vlastník 
+Počet lůžek: 466 
+Počet lékařů: 84 
+Počet sester: 552 
+Počet hospitalizací: 11764 
+Počet ambulantních vyšetření: 30195",17.850419,49.219142,2799177597,#fb6033,,,2878689225,soukromý vlastník,466,84,552,11764,30195
+Nemocnice Milosrdných sester sv. Karla Boromejského,"Nemocnice Milosrdných sester sv. Karla Boromejského, Vlašská 336/36, 118 00 Prague, Czechia","Zřizovatel: soukromý vlastník - Kongregace Milosrdných sester svatého Karla Boromejského
+Počet lůžek: 190 
+Počet lékařů: 58 
+Počet sester: 189 
+Počet hospitalizací: 4944 
+Počet ambulantních vyšetření: 30864",14.39588,50.086736,1020388458,#444444,hotel,,3121824420,soukromý vlastník - Kongregace Milosrdných sester svatého Karla Boromejského,190,58,189,4944,30864
+Nemocnice Most,"Nemocnice Most, J. E. Purkyně, 435 02 Most, Czechia","Zřizovatel: kraj 
+Počet lůžek: 641 
+Počet lékařů: 176 
+Počet sester: 524 
+Počet hospitalizací: 23321 
+Počet ambulantních vyšetření: 358988",13.629273,50.50562,1032119212,#f1ae29,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=27885&typ=UPLNY,2872296569,kraj,641,176,524,23321,358988
+Nemocnice Motol,"Nemocnice Motol, Kukulova, 162 06 Prague, Czechia","Zřizovatel: Ministerstvo zdravotnictví Počet lůžek: 2199 
+Počet lékařů: 1279 
+Počet sester: 1989 
+Počet hospitalizací: 77322 
+Počet ambulantních vyšetření: 1206553",14.341298,50.075313,1020388458,#444444,hotel,,3910304137,Ministerstvo zdravotnictví Počet lůžek: 2199,2199,1279,1989,77322,1206553
+Nemocnice Mělník,"Nemocnice Mělník, Pražská, 276 01 Mělník, Czechia","Zřizovatel: Soukromý vlastník - VAMED MEDITERRA a.s.
+Počet lůžek: 351 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: 15611 
+Počet ambulantních vyšetření: 220869",14.484894,50.347508,1987940417,#fb6033,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=448823&typ=UPLNY,2763601507,Soukromý vlastník - VAMED MEDITERRA a.s.,351,/,/,15611,220869
+Nemocnice Na Bulovce,"Nemocnice Na Bulovce, Budínova, 180 00 Prague, Czechia","Zřizovatel: Ministerstvo zdravotnictví Počet lůžek: 995 
+Počet lékařů: 475 
+Počet sester: 824 
+Počet hospitalizací: /
+Počet ambulantních vyšetření: 574096",14.465115,50.115647,1020388458,#444444,hotel,,1779035300,Ministerstvo zdravotnictví Počet lůžek: 995,995,475,824,/,574096
+Nemocnice Na Františku,"Nemocnice Na Františku, U Milosrdných, 110000 Prague, Czechia","Zřizovatel: obec 
+Počet lůžek: 139 
+Počet lékařů: 73 
+Počet sester: 133 
+Počet hospitalizací: 8000 
+Počet ambulantních vyšetření: 80000",14.42153,50.09239,1020388458,#444444,hotel,,3349123127,obec,139,73,133,8000,80000
+Nemocnice Na Homolce,"Nemocnice Na Homolce, Roentgenova, 169 00 Prague, Czechia","Zřizovatel: Ministerstvo zdravotnictví Počet lůžek: 357 
+Počet lékařů: 278 
+Počet sester: 701 
+Počet hospitalizací: 20790 
+Počet ambulantních vyšetření: 1192860",14.355147,50.074668,1020388458,#444444,hotel,,3761172129,Ministerstvo zdravotnictví Počet lůžek: 357,357,278,701,20790,1192860
+Nemocnice Nový Jičín,"Nemocnice Nový Jičín, Revoluční 2214/35, 741 01 Nový Jičín, Czechia","Zřizovatel: soukromý vlastník - AGEL a.s.
+Počet lůžek: 405 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",18.017039,49.58981,2744332045,#005e38,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=204838&typ=UPLNY,2907959263,soukromý vlastník - AGEL a.s.,405,/,/,/,/
+Nemocnice Nymburk,"Nemocnice Nymburk, Velké Valy, 288 40 Nymburk, Czechia","Zřizovatel: Obec 
+Počet lůžek: 201 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",15.03704,50.187098,1987940417,#fb6033,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=296469&typ=UPLNY,2903970236,Obec,201,/,/,/,/
+Nemocnice Náchod,"Nemocnice Náchod, Purkyňova 446, 547 01 Náchod, Czechia","Zřizovatel: kraj 
+Počet lůžek: 472 
+Počet lékařů: 131 
+Počet sester: 311 
+Počet hospitalizací:  /
+Počet ambulantních vyšetření: /",16.167472,50.410761,4105445865,#cc1b15,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=157988&typ=UPLNY,669986407,kraj,472,131,311,/,/
+Nemocnice Ostrov,"Nemocnice Ostrov, U Nemocnice, 363 01 Ostrov, Czechia","Zřizovatel: soukromý vlastník - NEMOS GROUP a.s.
+ Počet lůžek: / 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",12.963579,50.312087,3640402910,#2a4ea1,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=214948&typ=UPLNY,1045622076,soukromý vlastník - NEMOS GROUP a.s.,/,/,/,/,/
+Nemocnice Pelhřimov,"Nemocnice Pelhřimov, Slovanského bratrství, 393 01 Pelhřimov, Czechia","Zřizovatel: Kraj 
+Počet lůžek: 340 
+Počet lékařů: 97 
+Počet sester: 280 
+Počet hospitalizací: 13111 
+Počet ambulantních vyšetření: 80754",15.230683,49.434597,3135952126,#3cc954,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=728637&typ=UPLNY,2930631400,Kraj,340,97,280,13111,80754
+Nemocnice Podlesí,"Nemocnice Podlesí, a.s., Hraniční, 739 61 Třinec, Czechia","Zřizovatel: soukromý vlastník - AGEL a.s.
+Počet lůžek: / 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",18.641476,49.680636,2744332045,#005e38,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=716795&typ=UPLNY,625919195,soukromý vlastník - AGEL a.s.,/,/,/,/,/
+Nemocnice Prachatice,"Nemocnice Prachatice, Nebahovská, 383 01 Prachatice, Czechia","Zřizovatel: kraj 
+Počet lůžek: 146 
+Počet lékařů: 58 
+Počet sester: 160 
+Počet hospitalizací: 6388 
+Počet ambulantních vyšetření: 47000",14.010853,49.007023,1652591349,#ffcc00,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=217718&typ=UPLNY,1490050403,kraj,146,58,160,6388,47000
+Nemocnice Prostějov,"Nemocnice Prostějov, Gen. Dudy, 796 04 Prostějov, Czechia","Zřizovatel: soukromý vlastník - AGEL a.s.
+Počet lůžek: / 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: 18191 
+Počet ambulantních vyšetření:",17.08669,49.475873,465184557,,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=710208&typ=UPLNY,209623214,soukromý vlastník - AGEL a.s.,/,/,/,18191,
+Nemocnice Písek,"Nemocnice Písek, a.s., Budějovická, 397 11 Písek, Czechia","Zřizovatel: kraj 
+Počet lůžek: 362 
+Počet lékařů: 113 
+Počet sester: 397 
+Počet hospitalizací: 16017 
+Počet ambulantních vyšetření: 173087",14.157131,49.302129,1652591349,#ffcc00,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=712062&typ=PLATNY,4221541180,kraj,362,113,397,16017,173087
+Nemocnice Přerov,"Nemocnice Přerov, Dvořákova, 750 02 Přerov, Czechia","Zřizovatel: soukromý vlastník - AGEL a.s.
+Počet lůžek: / 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: 14852 
+Počet ambulantních vyšetření: /",17.473806,49.457475,465184557,,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=710208&typ=UPLNY,121042145,soukromý vlastník - AGEL a.s.,/,/,/,14852,/
+Nemocnice Rakovník,"Nemocnice Rakovník, Dukel. hrdinů, 269 01 Rakovník, Czechia","Zřizovatel: Soukromý vlastník - PRIVAMED a.s.
+Počet lůžek: 286 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: 8 778 
+Počet ambulantních vyšetření: /",13.716475,50.108034,1987940417,#fb6033,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=111974&typ=UPLNY,3814373057,Soukromý vlastník - PRIVAMED a.s.,286,/,/,8 778,/
+Nemocnice Rudolfa a Stefanie Benešov,"Nemocnice Rudolfa a Stefanie Benešov, K Nemocnici, 256 01 Benešov, Czechia","Zřizovatel: Kraj 
+Počet lůžek: 451 
+Počet lékařů: 124 
+Počet sester: 491 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",14.67995,49.787874,1987940417,#fb6033,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=432793&typ=UPLNY,992789214,Kraj,451,124,491,/,/
+Nemocnice Rychnov nad Kněžnou,"Nemocnice Rychnov nad Kněžnou, Jiráskova, 516 01 Rychnov nad Kněžnou, Czechia","Zřizovatel: kraj 
+Počet lůžek: 255 
+Počet lékařů: 64 
+Počet sester: 190 
+Počet hospitalizací: 11658 
+Počet ambulantních vyšetření: 72102",16.269538,50.168835,4105445865,#cc1b15,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=157988&typ=UPLNY,1033060873,kraj,255,64,190,11658,72102
+Nemocnice Sedlčany,"Nemocnice Sedlčany, Tyršova 161, 264 01 Sedlčany, Czechia","Zřizovatel: Soukromý vlastník - VAMED MEDITERRA a.s.
+Počet lůžek: /
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",14.426292,49.658956,1987940417,#fb6033,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=97402&typ=UPLNY,765542553,Soukromý vlastník - VAMED MEDITERRA a.s.,/,/,/,/,/
+Nemocnice Semily,"Nemocnice Semily, 3. května, 512 01 Semily, Czechia","Zřizovatel: obec 
+Počet lůžek: 119 
+Počet lékařů: 31 
+Počet sester: 85 
+Počet hospitalizací: 3244 
+Počet ambulantních vyšetření: 55027",15.353081,50.597868,3650692710,#1b8893,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=947045&typ=UPLNY,3394152135,obec,119,31,85,3244,55027
+Nemocnice Slaný,"Nemocnice Slaný, Politických vězňů 576, 274 01 Slaný, Czechia","Zřizovatel: Obec 
+Počet lůžek: 314 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",14.083972,50.234461,1987940417,#fb6033,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=688655&typ=UPLNY,4259782040,Obec,314,/,/,/,/
+Nemocnice Sokolov,"Nemocnice Sokolov, Brněnská, 356 01 Sokolov, Czechia","Zřizovatel: soukromý vlastník - NEMOS GROUP a.s.
+Počet lůžek: / 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",12.650298,50.177923,3640402910,#2a4ea1,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=244654&typ=UPLNY,3415163007,soukromý vlastník - NEMOS GROUP a.s.,/,/,/,/,/
+Nemocnice Strakonice,"Nemocnice Strakonice, Lidická, 386 01 Strakonice, Czechia","Zřizovatel: kraj 
+Počet lůžek: 314 
+Počet lékařů: 99 
+Počet sester: 218 
+Počet hospitalizací: 13500
+Počet ambulantních vyšetření: /",13.907794,49.266137,1652591349,#ffcc00,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=217488&typ=UPLNY,229760117,kraj,314,99,218,13500,/
+Nemocnice Svaté Zdislavy,Nemocnice Svaté Zdislavy,"Zřizovatel: Soukromý vlastník - VAMED MEDITERRA a.s.
+Počet lůžek: 93 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",16.008184,49.391266,3135952126,#3cc954,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=584429&typ=UPLNY,3174201160,Soukromý vlastník - VAMED MEDITERRA a.s.,93,/,/,/,/
+Nemocnice TGM Hodonín,"Nemocnice TGM Hodonín, Purkyňova 2731/11, 695 01 Hodonín, Czechia","Zřizovatel: kraj 
+Počet lůžek: 200 
+Počet lékařů: 61 
+Počet sester: 191 
+Počet hospitalizací: 8853 
+Počet ambulantních vyšetření: 150243",17.144997,48.864254,2451465079,#e32c31,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=223337&typ=UPLNY,3715749535,kraj,200,61,191,8853,150243
+Nemocnice Tanvald,"Nemocnice Tanvald, Pod Špičákem, 468 41 Tanvald, Czechia","Zřizovatel: soukromý vlastník - VAMED MEDITERRA a.s.
+Počet lůžek: / 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",15.301632,50.740166,3650692710,#1b8893,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=695207&typ=UPLNY,1212478127,soukromý vlastník - VAMED MEDITERRA a.s.,/,/,/,/,/
+Nemocnice Teplice,"Nemocnice Teplice, Anglická, 415 03 Teplice, Czechia","Zřizovatel: kraj 
+Počet lůžek: 478 
+Počet lékařů: 142 
+Počet sester: 398 
+Počet hospitalizací: 17810 
+Počet ambulantních vyšetření: 284473",13.810183,50.635806,1032119212,#f1ae29,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=27885&typ=UPLNY,3911316195,kraj,478,142,398,17810,284473
+Nemocnice Tišnov,"Nemocnice Tišnov, Purkyňova 279, 666 01 Tišnov, Czechia","Zřizovatel: kraj 
+Počet lůžek: 90 
+Počet lékařů: 10 
+Počet sester: 28 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",16.433507,49.347658,2451465079,#e32c31,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=614350&typ=UPLNY,462977067,kraj,90,10,28,/,/
+Nemocnice Tábor,"Nemocnice Tábor, a.s., Kpt. Jaroše, 390 03 Tábor, Czechia","Zřizovatel: kraj 
+Počet lůžek: 466 
+Počet lékařů: 142 
+Počet sester: 498 
+Počet hospitalizací: 20358 
+Počet ambulantních vyšetření: 344004",14.652722,49.41658,1652591349,#ffcc00,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=712063&typ=UPLNY,40915492,kraj,466,142,498,20358,344004
+Nemocnice Třebíč,"Nemocnice Třebíč, Purkyňovo nám., 674 01 Třebíč, Czechia","Zřizovatel: Kraj 
+Počet lůžek: 422 
+Počet lékařů: 178 
+Počet sester: 468 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",15.890101,49.211979,3135952126,#3cc954,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=305947&typ=UPLNY,3476235120,Kraj,422,178,468,/,/
+Nemocnice Třinec,"Nemocnice Třinec, Kaštanová, 739 94 Třinec, Czechia","Zřizovatel: kraj 
+Počet lůžek: 355 
+Počet lékařů: 145 
+Počet sester: 613 
+Počet hospitalizací: 17196 
+Počet ambulantních vyšetření: 180680",18.690468,49.674566,2744332045,#005e38,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=258656&typ=UPLNY,3624652867,kraj,355,145,613,17196,180680
+Nemocnice Valašské Meziříčí,"Nemocnice Valašské Meziříčí, U Nemocnice, 757 01 Valašské Meziříčí, Czechia","Zřizovatel: soukromý vlastník - AGEL a.s.
+Počet lůžek: / 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",17.97704,49.462912,2799177597,#fb6033,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=4980&typ=UPLNY,1508026151,soukromý vlastník - AGEL a.s.,/,/,/,/,/
+Nemocnice Valtice s.r.o. Klášterní 1150,"Nemocnice Valtice s.r.o. Klášterní 1150, 691 42 Valtice, Czech Republic","Zřizovatel: soukromý vlastník 
+Počet lůžek: 164 
+Počet lékařů: 12 
+Počet sester: / 
+Počet hospitalizací: 551 
+Počet ambulantních vyšetření: /",16.759129,48.743834,2451465079,#e32c31,,,2282326099,soukromý vlastník,164,12,/,551,/
+Nemocnice Varnsdorf,"Nemocnice Varnsdorf, Karlova 2280, 407 47 Varnsdorf, Czechia","Zřizovatel: obec 
+Počet lůžek: / 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",14.611751,50.893781,1032119212,#f1ae29,hotel,,3383300705,obec,/,/,/,/,/
+Nemocnice Vimperk a.s.,"Nemocnice Vimperk a.s., Pivovarská, 385 01 Vimperk, Czech Republic","Zřizovatel: Soukromý vlastník, NEAC International lmtd
+Počet lůžek: /
+Počet lékařů: /
+Počet sester: /
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",13.764363,49.056858,1652591349,#ffcc00,,,4125051,"Soukromý vlastník, NEAC International lmtd",/,/,/,/,/
+Nemocnice Vrchlabí,"Nemocnice Vrchlabí, Fügnerova, 543 01 Vrchlabí, Czechia","Zřizovatel: soukromý vlastník - CRNAP LIMITED
+Počet lůžek: / 
+Počet lékařů: /
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",15.607195,50.622062,4105445865,#cc1b15,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=392687&typ=UPLNY,4253752052,soukromý vlastník - CRNAP LIMITED,/,/,/,/,/
+Nemocnice Vyškov,"Nemocnice Vyškov, Purkyňova, 682 01 Vyškov, Czechia","Zřizovatel: kraj 
+Počet lůžek: 363 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",16.979834,49.278112,2451465079,#e32c31,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=607332&typ=UPLNY,2858792629,kraj,363,/,/,/,/
+Nemocnice Znojmo,"Nemocnice Znojmo, MUDr. Jana Janského, 669 02 Znojmo, Czechia","Zřizovatel: kraj 
+Počet lůžek: 590 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",16.050813,48.869402,2451465079,#e32c31,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=608961&typ=UPLNY,2235907990,kraj,590,/,/,/,/
+Nemocnice města Broumov,"Nemocnice města Broumov, Smetanova, 550 01 Broumov, Czechia","Zřizovatel: kraj 
+Počet lůžek: 105 
+Počet lékařů: 8 
+Počet sester: 44 
+Počet hospitalizací: /
+Počet ambulantních vyšetření: /",16.334024,50.579783,4105445865,#cc1b15,hotel,,663997339,kraj,105,8,44,/,/
+Nemocnice na Žižkově,"Nemocnice na Žižkově, Kubelíkova 1250/16, 130 00 Prague, Czechia","Zřizovatel: soukromý vlastník - Konvent sester alžbětinek v Praze
+Počet lůžek: / 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",14.447887,50.081742,1020388458,#444444,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=587443&typ=UPLNY,3294724846,soukromý vlastník - Konvent sester alžbětinek v Praze,/,/,/,/,/
+Nemocnice s poliklinikou Havířov,"Nemocnice s poliklinikou Havířov, Astronautů, 736 01 Havířov, Czechia","Zřizovatel: kraj 
+Počet lůžek: 413 
+Počet lékařů: 176 
+Počet sester: 326 
+Počet hospitalizací: 14622 
+Počet ambulantních vyšetření: 273835",18.439244,49.784198,2744332045,#005e38,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=258561&typ=UPLNY,2459047128,kraj,413,176,326,14622,273835
+Nemocnice s poliklinikou Karviná-Ráj,"Nemocnice s poliklinikou Karviná-Ráj, Vydmuchov, 735 03 Karviná, Czechia","Zřizovatel: kraj 
+Počet lůžek: 511 
+Počet lékařů: 123 
+Počet sester: 418 
+Počet hospitalizací: 17225 
+Počet ambulantních vyšetření: 974627",18.549646,49.848466,2744332045,#005e38,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=257765&typ=UPLNY,3828443960,kraj,511,123,418,17225,974627
+Nemocnice s poliklinikou Česká Lípa,"Nemocnice s poliklinikou Česká Lípa, Liberecká, 470 06 Česká Lípa, Czechia","Zřizovatel: kraj 
+Počet lůžek: 488 
+Počet lékařů: 121 
+Počet sester: 411 
+Počet hospitalizací: 18385 
+Počet ambulantních vyšetření: 269473",14.549693,50.685412,3650692710,#1b8893,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=234985&typ=UPLNY,3049873578,kraj,488,121,411,18385,269473
+Nemocnice sv. Alžběty,"Nemocnice sv. Alžběty, Na Slupi 448/6, 128 00 Prague, Czechia","Zřizovatel: soukromý vlastník - Konvent sester alžbětinek v Praze
+Počet lůžek: 103 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",14.420379,50.069245,1020388458,#444444,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=392322&typ=UPLNY,826195372,soukromý vlastník - Konvent sester alžbětinek v Praze,103,/,/,/,/
+Nemocnice u Sv. Jiří,"Nemocnice u Sv. Jiří, Staniční 1126/74, 312 00 Plzeň, Czechia","Zřizovatel: soukromý vlastník - Daniela Pousková, Jan Bohunčák, Václav Svrček
+Počet lůžek: 35 
+Počet lékařů: /
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",13.410797,49.752567,3591367076,#b63681,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=150024&typ=UPLNY,946526255,"soukromý vlastník - Daniela Pousková, Jan Bohunčák, Václav Svrček",35,/,/,/,/
+Nemocnice České Budějovice,Nemocnice České Budějovice,"Zřizovatel: kraj 
+Počet lůžek: 1477 
+Počet lékařů: 538 
+Počet sester: 1471 
+Počet hospitalizací: 56986 
+Počet ambulantních vyšetření: /",14.4694,48.960799,1652591349,#ffcc00,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=158166&typ=UPLNY,1433175689,kraj,1477,538,1471,56986,/
+Nemocnice Český Krumlov,"Nemocnice Český Krumlov, Na Moráni, 381 01 Český Krumlov, Czechia","Zřizovatel: kraj 
+Počet lůžek: 247 
+Počet lékařů: 64 
+Počet sester: 216 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: 117626",14.325139,48.811974,1652591349,#ffcc00,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=712061&typ=UPLNY,396158478,kraj,247,64,216,/,117626
+Nemocnice Český Těšín,"Nemocnice Český Těšín, Komenského, 737 01 Český Těšín, Czechia","Zřizovatel: soukromý vlastník - AGEL a.s.
+Počet lůžek: 130
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",18.610556,49.745789,2744332045,#005e38,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=711206&typ=UPLNY,3516276455,soukromý vlastník - AGEL a.s.,130,/,/,/,/
+Nemocnice Říčany,"Nemocnice Říčany, Smiřických 315/26, 251 01 Říčany, Czechia","Zřizovatel: Soukromý vlastník - AGEL a.s.
+Počet lůžek: /
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",14.674839,49.995951,1987940417,#fb6033,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=316999&typ=UPLNY,1264662565,Soukromý vlastník - AGEL a.s.,/,/,/,/,/
+Nemocnice Šternberk,"Nemocnice Šternberk, Jívavská 1435/20, 785 01 Šternberk, Czechia","Zřizovatel: soukromý vlastník - AGEL a.s.
+Počet lůžek: / 
+Počet lékařů: / 
+Počet sester: /
+Počet hospitalizací: 12505 
+Počet ambulantních vyšetření:",17.29815,49.72246,465184557,,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=710208&typ=UPLNY,3483085097,soukromý vlastník - AGEL a.s.,/,/,/,12505,
+Nemocnice Žatec,"Nemocnice Žatec, Husova, 438 01 Žatec, Czechia","Zřizovatel: obec 
+Počet lůžek: 191 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",13.537866,50.319522,1032119212,#f1ae29,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=501867&typ=UPLNY,1888090987,obec,191,/,/,/,/
+Oblastní nemocnice Jičín,"Oblastní nemocnice Jičín, Bolzanova 512, 506 42 Jičín, Czechia","Zřizovatel: kraj 
+Počet lůžek: 508
+ Počet lékařů: 113 
+Počet sester: 394 
+Počet hospitalizací: 16153 
+Počet ambulantních vyšetření: 52033",15.356956,50.440112,4105445865,#cc1b15,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=158874&typ=UPLNY,1681478016,kraj,508,113,394,16153,52033
+Oblastní nemocnice Kladno,"Oblastní nemocnice Kladno, U nemocnice, 272 01 Kladno, Czechia","Zřizovatel: Kraj 
+Počet lůžek: 600 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",14.088396,50.140685,1987940417,#fb6033,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=685077&typ=UPLNY,2718319774,Kraj,600,/,/,/,/
+Oblastní nemocnice Kolín,"Oblastní nemocnice Kolín, a.s., Žižkova 146, 280 02 Kolín, Czechia","Zřizovatel: Kraj 
+Počet lůžek: 541 
+Počet lékařů: 201 
+Počet sester: 566 
+Počet hospitalizací: 28296 
+Počet ambulantních vyšetření: 451372",15.196873,50.019127,1987940417,#fb6033,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=685089&typ=UPLNY,1896947040,Kraj,541,201,566,28296,451372
+Oblastní nemocnice Příbram,"Oblastní nemocnice Příbram, Charvátova, 261 01 Příbram, Czechia","Zřizovatel: Kraj 
+Počet lůžek: 716 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: 33142 
+Počet ambulantních vyšetření: 318711",14.009917,49.692498,1987940417,#fb6033,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=157652&typ=UPLNY,3703048170,Kraj,716,/,/,33142,318711
+Oblastní nemocnice Trutnov,"Oblastní nemocnice Trutnov, Maxima Gorkého 77, 541 01 Trutnov, Czechia","Zřizovatel: kraj
+Počet lůžek: / 
+Počet lékařů: 122 
+Počet sester: 246 
+Počet hospitalizací: 12795 
+Počet ambulantních vyšetření: /",15.919339,50.560443,4105445865,#cc1b15,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=221396&typ=UPLNY,3589036592,kraj,/,122,246,12795,/
+Okresní Nemocnice Nové Město na Moravě,"Okresní Nemocnice Nové Město na Moravě, Žďárská, 592 31 Nové Město na Moravě, Czechia","Zřizovatel: Kraj 
+Počet lůžek: 457 
+Počet lékařů: 162 
+Počet sester: 437 
+Počet hospitalizací: 19299 
+Počet ambulantních vyšetření: 213096",16.062205,49.561993,3135952126,#3cc954,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=306153&typ=UPLNY,3429676512,Kraj,457,162,437,19299,213096
+Okresní nemocnice Havlíčkův Brod,"Okresní nemocnice Havlíčkův Brod, Havlíčkova, 580 01 Havlíčkův Brod, Czechia","Zřizovatel: Kraj 
+Počet lůžek: 534 
+Počet lékařů: 172 
+Počet sester: 597 
+Počet hospitalizací: 18808 
+Počet ambulantních vyšetření: 230 993",15.571464,49.6091,3135952126,#3cc954,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=357077&typ=UPLNY,850547503,Kraj,534,172,597,18808,230 993
+Panochova nemocnice Turnov,"Panochova nemocnice Turnov, 28. října, 511 01 Turnov, Czechia","Zřizovatel: kraj 
+Počet lůžek: 176 
+Počet lékařů: 38 
+Počet sester: 111 
+Počet hospitalizací: 6583 
+Počet ambulantních vyšetření: /",15.16987,50.58906,3650692710,#1b8893,hotel,,2488742467,kraj,176,38,111,6583,/
+Podhorská nemocnice,"Podhorská nemocnice, Nádražní 29, 792 01 Bruntál, Czechia","Zřizovatel: soukromý vlastník - AGEL a.s.
+Počet lůžek: / 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",17.471297,49.994934,2744332045,#005e38,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=48852&typ=UPLNY,2373178511,soukromý vlastník - AGEL a.s.,/,/,/,/,/
+Podřipská nemocnice s poliklinikou,"Podřipská nemocnice s poliklinikou, Alej 17. listopadu, 413 01 Roudnice n. Lab., Czechia","Zřizovatel: soukromý vlastník - majoritní akcionář Ing. Jakub Zavoral, Ph.D.
+Počet lůžek: 241 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",14.247776,50.423124,1032119212,#f1ae29,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=8028&typ=UPLNY,896055322,"soukromý vlastník - majoritní akcionář Ing. Jakub Zavoral, Ph.D.",241,/,/,/,/
+Privamed,"Privamed, Kotíkovská, 323 00 Plzeň, Czechia","Zřizovatel: soukromý vlastník - PRIVAMED a.s.
+Počet lůžek: / 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",13.359332,49.765288,3591367076,#b63681,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=174598&typ=UPLNY,2069940196,soukromý vlastník - PRIVAMED a.s.,/,/,/,/,/
+Rokycanská nemocnice,"Rokycanská nemocnice, Voldušská 750, 337 01 Rokycany, Czechia","Zřizovatel: kraj 
+Počet lůžek: 123 
+Počet lékařů: 38 
+Počet sester: 97 
+Počet hospitalizací: 4769 
+Počet ambulantních vyšetření: 42956",13.60429,49.748931,3591367076,#b63681,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=157650&typ=UPLNY,1661382919,kraj,123,38,97,4769,42956
+Slezská nemocnice v Opavě,"Slezská nemocnice v Opavě, Olomoucká, 746 01 Opava, Czechia","Zřizovatel: kraj 
+Počet lůžek: 535 
+Počet lékařů: 163 
+Počet sester: 560 
+Počet hospitalizací: 22565 
+Počet ambulantních vyšetření: 324131",17.878495,49.934364,2744332045,#005e38,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=259353&typ=UPLNY,2847485106,kraj,535,163,560,22565,324131
+Stodská nemocnice,"Stodská nemocnice, Hradecká 600, 333 01 Stod, Czechia","Zřizovatel: kraj 
+Počet lůžek: 195 
+Počet lékařů: 48 
+Počet sester: 142 
+Počet hospitalizací: 6951 
+Počet ambulantních vyšetření: 42726",13.155045,49.636379,3591367076,#b63681,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=157687&typ=UPLNY,1894854028,kraj,195,48,142,6951,42726
+Sušická nemocnice s.r.o.,"Sušická nemocnice s.r.o., Chmelenská 117, 342 01 Sušice, Czech Republic","Zřizovatel: obec
+Počet lůžek: /
+Počet lékařů: /
+Počet sester: / 
+Počet hospitalizací: /
+Počet ambulantních vyšetření: /",13.526445,49.230101,3591367076,#b63681,,,341468800,obec,/,/,/,/,/
+Thomayerova nemocnice,"Thomayerova nemocnice, Vídeňská, 142 00 Prague, Czechia","Zřizovatel: Ministerstvo zdravotnictví Počet lůžek: 1600 
+Počet lékařů: 371 
+Počet sester: 920 
+Počet hospitalizací: 35899 
+Počet ambulantních vyšetření: 727993",14.459379,50.028254,1020388458,#444444,hotel,,1832727383,Ministerstvo zdravotnictví Počet lůžek: 1600,1600,371,920,35899,727993
+Uherskohradišťská nemocnice a.s.,"Uherskohradišťská nemocnice a.s., Zahrádky, 686 06 Uherské Hradiště, Czechia","Zřizovatel: kraj 
+Počet lůžek: 609 
+Počet lékařů: 174 
+Počet sester: 496 
+Počet hospitalizací: 24740 
+Počet ambulantních vyšetření: 1006054",17.45358,49.063206,2799177597,#fb6033,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=202853&typ=UPLNY,3476509811,kraj,609,174,496,24740,1006054
+Vojenská nemocnice,"Vojenská nemocnice, Sušilovo nám., 779 00 Olomouc, Czechia","Zřizovatel: Ministerstvo Obrany
+Počet lůžek: / 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",17.265414,49.605848,465184557,,hotel,,1191163917,Ministerstvo Obrany,/,/,/,/,/
+Vojenská nemocnice Brno,"Vojenská nemocnice Brno, Lazaretní, 615 00 Brno, Czechia","Zřizovatel: Ministerstvo obrany 
+Počet lůžek: 218 
+Počet lékařů: 71 
+Počet sester: 335 
+Počet hospitalizací: 8341 
+Počet ambulantních vyšetření: 178818",16.631154,49.202605,2451465079,#e32c31,hotel,,2180537348,Ministerstvo obrany,218,71,335,8341,178818
+Vsetínská nemocnice,"Vsetínská nemocnice, Nemocniční 955, 755 01 Vsetín, Czechia","Zřizovatel: kraj 
+Počet lůžek: 344 
+Počet lékařů: 87 
+Počet sester: 249 
+Počet hospitalizací: 12676 
+Počet ambulantních vyšetření: 150068",17.998209,49.332166,2799177597,#fb6033,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=30640&typ=UPLNY,3958753568,kraj,344,87,249,12676,150068
+Vítkovická nemocnice,"Vítkovická nemocnice, Mírová, 703 00 Ostrava, Czechia","Zřizovatel: soukromý vlastník - AGEL a.s.
+Počet lůžek: / 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",18.270551,49.815295,2744332045,#005e38,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=685935&typ=UPLNY,222137187,soukromý vlastník - AGEL a.s.,/,/,/,/,/
+Všeobecná fakultní nemocnice,"Všeobecná fakultní nemocnice, Benátská, 128 00 Prague, Czechia","Zřizovatel: Ministerstvo zdravotnictví Počet lůžek: 1537 
+Počet lékařů: 810 
+Počet sester: 1799 
+Počet hospitalizací: 67594 
+Počet ambulantních vyšetření: /",14.42073,50.072519,1020388458,#444444,hotel,,1974185781,Ministerstvo zdravotnictví Počet lůžek: 1537,1537,810,1799,67594,/
+Úrazová nemocnice v Brně,"Úrazová nemocnice v Brně, Ponávka, 602 00 Brno, Czechia","Zřizovatel: obec 
+Počet lůžek: 199 
+Počet lékařů: 100 
+Počet sester: 285 
+Počet hospitalizací: 8604 
+Počet ambulantních vyšetření: 272588",16.615174,49.197812,2451465079,#e32c31,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=325834&typ=UPLNY,2153578786,obec,199,100,285,8604,272588
+Ústřední vojenská nemocnice,"Ústřední vojenská nemocnice, U Vojenské nemocnice, 162 00 Prague, Czechia","Zřizovatel: Ministerstvo Obrany
+Počet lůžek: 677 
+Počet lékařů: 411 
+Počet sester: 718 
+Počet hospitalizací: 26440 
+Počet ambulantních vyšetření: 1203279",14.363391,50.090413,1020388458,#444444,hotel,,2486277604,Ministerstvo Obrany,677,411,718,26440,1203279
+Šumperská nemocnice,"Šumperská nemocnice, Nemocniční, 787 01 Šumperk, Czechia","Zřizovatel: soukromý vlastník - Martin Polach
+Počet lůžek: / 
+Počet lékařů: / 
+Počet sester: / 
+Počet hospitalizací: / 
+Počet ambulantních vyšetření: /",16.965441,49.959049,465184557,,hotel,https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=703089&typ=UPLNY,123144951,soukromý vlastník - Martin Polach,/,/,/,/,/
