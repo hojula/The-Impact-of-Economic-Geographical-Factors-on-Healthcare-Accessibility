@@ -71,7 +71,7 @@ If you use this work in your research, please cite:
 ```
 Bajićová, A., Hlavsa, J., Jansa, P., & Sadílek, J. (2025). 
 The Impact of Economic-Geographical Factors on Healthcare Accessibility. 
-GitHub repository: https://github.com/[your-username]/[repository-name]
+GitHub repository: https://github.com/hojula/The-Impact-of-Economic-Geographical-Factors-on-Healthcare-Accessibility
 ```
 
 ## License
